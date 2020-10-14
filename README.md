@@ -1,4 +1,5 @@
 ## MergeVideoandAudio
+<pre>
 This Repository contains script that's convert and merge the audio and video into mp4 video.
 I have created this repository because of the the Pluralsight courses website encrypte 
 the courses and u cant access the matrial
@@ -9,6 +10,9 @@ so i made this repo
 I hope u can find it helpfull
 
 Thanks...
+</pre>
 ## Dependencies
+<pre>
 The script is written in python
 u need to have ```ffmepg``` library
+</pre>
