@@ -9,3 +9,6 @@ so i made this repo
 I hope u can find it helpfull
 
 Thanks...
+# Dependencies
+The script is written in python
+u need to have ffmepg library 
