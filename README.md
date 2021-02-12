@@ -9,7 +9,10 @@ This script automates this process <br>
 I hope you can find it helpfull.<br>
 
 Thanks...
+
 # Dependencies
 The script is written in python <br>
+
 You need to have ```ffmepg``` library <br>
+
 to install just type ```pip install ffmpeg-python``` <br>
