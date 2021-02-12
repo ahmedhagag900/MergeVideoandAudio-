@@ -6,9 +6,8 @@ the only way i was able to get the courses matrial is to download videos and aud
 of each course and merge every audio with it's video , but doing that manually is very exhausting <br>
 This script automates this process <br>
 
-I hope you can find it helpfull.<br>
+I hope you could find it helpfull.<br>
 
-Thanks...
 
 # Dependencies
 The script is written in python <br>
